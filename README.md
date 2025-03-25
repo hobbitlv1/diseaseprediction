@@ -46,7 +46,7 @@ Feature importance analysis is conducted to identify which factors contribute mo
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/hobbitlv1/diseaseprediction.git
    ```
 
 2. **Install Dependencies**:
